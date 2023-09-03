@@ -2,7 +2,7 @@
 A machine learning project that utilizes LSTM (Long Short-Term Memory) networks to predict temperatures based on historical climate data from the Jena Climate dataset.
 
 ## Project Overview
-- Dataset: Jena Climate dataset, containing 14 different weather features recorded every 10 minutes from 2009 to 2016 (available in this repository).
+- Dataset: [Jena Climate dataset](https://www.kaggle.com/datasets/mnassrib/jena-climate), containing 14 different weather features recorded every 10 minutes from 2009 to 2016.
 - Objective: Predict the temperature based on past weather features using sequence models.
 - Model: LSTM-based deep learning model built with TensorFlow and Keras.
 
